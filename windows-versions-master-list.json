@@ -5,182 +5,182 @@
       "minorVersion": "0",
       "buildNumber": "26200",
       "productType": "Workstation",
-      "displayName": "Windows 11 (25H2)"
+      "name": "Windows 11 (25H2)"
     },
     {
       "majorVersion": "10",
       "minorVersion": "0",
       "buildNumber": "26100",
       "productType": "Workstation",
-      "displayName": "Windows 11 (24H2)"
+      "name": "Windows 11 (24H2)"
     },
     {
       "majorVersion": "10",
       "minorVersion": "0",
       "buildNumber": "22631",
       "productType": "Workstation",
-      "displayName": "Windows 11 (23H2)"
+      "name": "Windows 11 (23H2)"
     },
     {
       "majorVersion": "10",
       "minorVersion": "0",
       "buildNumber": "22621",
       "productType": "Workstation",
-      "displayName": "Windows 11 (22H2)"
+      "name": "Windows 11 (22H2)"
     },
     {
       "majorVersion": "10",
       "minorVersion": "0",
       "buildNumber": "22000",
       "productType": "Workstation",
-      "displayName": "Windows 11 (21H2)"
+      "name": "Windows 11 (21H2)"
     },
     {
       "majorVersion": "10",
       "minorVersion": "0",
       "buildNumber": "19045",
       "productType": "Workstation",
-      "displayName": "Windows 10 (22H2)"
+      "name": "Windows 10 (22H2)"
     },
     {
       "majorVersion": "10",
       "minorVersion": "0",
       "buildNumber": "19044",
       "productType": "Workstation",
-      "displayName": "Windows 10 (21H2)"
+      "name": "Windows 10 (21H2)"
     },
     {
       "majorVersion": "10",
       "minorVersion": "0",
       "buildNumber": "19043",
       "productType": "Workstation",
-      "displayName": "Windows 10 (21H1)"
+      "name": "Windows 10 (21H1)"
     },
     {
       "majorVersion": "10",
       "minorVersion": "0",
       "buildNumber": "19042",
       "productType": "Workstation",
-      "displayName": "Windows 10 (20H2)"
+      "name": "Windows 10 (20H2)"
     },
     {
       "majorVersion": "10",
       "minorVersion": "0",
       "buildNumber": "19041",
       "productType": "Workstation",
-      "displayName": "Windows 10 (2004)"
+      "name": "Windows 10 (2004)"
     },
     {
       "majorVersion": "10",
       "minorVersion": "0",
       "buildNumber": "18363",
       "productType": "Workstation",
-      "displayName": "Windows 10 (1909)"
+      "name": "Windows 10 (1909)"
     },
     {
       "majorVersion": "10",
       "minorVersion": "0",
       "buildNumber": "18362",
       "productType": "Workstation",
-      "displayName": "Windows 10 (1903)"
+      "name": "Windows 10 (1903)"
     },
     {
       "majorVersion": "10",
       "minorVersion": "0",
       "buildNumber": "17763",
       "productType": "Workstation",
-      "displayName": "Windows 10 (1809)"
+      "name": "Windows 10 (1809)"
     },
     {
       "majorVersion": "10",
       "minorVersion": "0",
       "buildNumber": "17134",
       "productType": "Workstation",
-      "displayName": "Windows 10 (1803)"
+      "name": "Windows 10 (1803)"
     },
     {
       "majorVersion": "10",
       "minorVersion": "0",
       "buildNumber": "16299",
       "productType": "Workstation",
-      "displayName": "Windows 10 (1709)"
+      "name": "Windows 10 (1709)"
     },
     {
       "majorVersion": "10",
       "minorVersion": "0",
       "buildNumber": "15063",
       "productType": "Workstation",
-      "displayName": "Windows 10 (1703)"
+      "name": "Windows 10 (1703)"
     },
     {
       "majorVersion": "10",
       "minorVersion": "0",
       "buildNumber": "14393",
       "productType": "Workstation",
-      "displayName": "Windows 10 (1607)"
+      "name": "Windows 10 (1607)"
     },
     {
       "majorVersion": "10",
       "minorVersion": "0",
       "buildNumber": "10586",
       "productType": "Workstation",
-      "displayName": "Windows 10 (1511)"
+      "name": "Windows 10 (1511)"
     },
     {
       "majorVersion": "10",
       "minorVersion": "0",
       "buildNumber": "10240",
       "productType": "Workstation",
-      "displayName": "Windows 10 (1507)"
+      "name": "Windows 10 (1507)"
     },
     {
       "majorVersion": "6",
       "minorVersion": "3",
       "buildNumber": "9600",
       "productType": "Workstation",
-      "displayName": "Windows 8.1"
+      "name": "Windows 8.1"
     },
     {
       "majorVersion": "6",
       "minorVersion": "2",
       "buildNumber": "9200",
       "productType": "Workstation",
-      "displayName": "Windows 8"
+      "name": "Windows 8"
     },
     {
       "majorVersion": "6",
       "minorVersion": "1",
       "buildNumber": "7600",
       "productType": "Workstation",
-      "displayName": "Windows 7"
+      "name": "Windows 7"
     },
     {
       "majorVersion": "6",
       "minorVersion": "1",
       "buildNumber": "7601",
       "productType": "Workstation",
-      "displayName": "Windows 7 (SP 1)"
+      "name": "Windows 7 (SP 1)"
     },
     {
       "majorVersion": "6",
       "minorVersion": "0",
       "buildNumber": "6000",
       "productType": "Workstation",
-      "displayName": "Windows Vista"
+      "name": "Windows Vista"
     },
     {
       "majorVersion": "6",
       "minorVersion": "0",
       "buildNumber": "6001",
       "productType": "Workstation",
-      "displayName": "Windows Vista (SP 1)"
+      "name": "Windows Vista (SP 1)"
     },
     {
       "majorVersion": "6",
       "minorVersion": "0",
       "buildNumber": "6002",
       "productType": "Workstation",
-      "displayName": "Windows Vista (SP 2)"
+      "name": "Windows Vista (SP 2)"
     }
   ],
   "server": [
@@ -189,91 +189,91 @@
       "minorVersion": "0",
       "buildNumber": "26100",
       "productType": "Server",
-      "displayName": "Windows Server 2025 (24H2)"
+      "name": "Windows Server 2025 (24H2)"
     },
     {
       "majorVersion": "10",
       "minorVersion": "0",
       "buildNumber": "20348",
       "productType": "Server",
-      "displayName": "Windows Server 2022 (21H2)"
+      "name": "Windows Server 2022 (21H2)"
     },
     {
       "majorVersion": "10",
       "minorVersion": "0",
       "buildNumber": "17763",
       "productType": "Server",
-      "displayName": "Windows Server 2019 (1809)"
+      "name": "Windows Server 2019 (1809)"
     },
     {
       "majorVersion": "10",
       "minorVersion": "0",
       "buildNumber": "16299",
       "productType": "Server",
-      "displayName": "Windows Server 2016 (1709)"
+      "name": "Windows Server 2016 (1709)"
     },
     {
       "majorVersion": "10",
       "minorVersion": "0",
       "buildNumber": "14393",
       "productType": "Server",
-      "displayName": "Windows Server 2016 (1607)"
+      "name": "Windows Server 2016 (1607)"
     },
     {
       "majorVersion": "6",
       "minorVersion": "3",
       "buildNumber": "9600",
       "productType": "Server",
-      "displayName": "Windows Server 2012 R2"
+      "name": "Windows Server 2012 R2"
     },
     {
       "majorVersion": "6",
       "minorVersion": "2",
       "buildNumber": "9200",
       "productType": "Server",
-      "displayName": "Windows Server 2012"
+      "name": "Windows Server 2012"
     },
     {
       "majorVersion": "6",
       "minorVersion": "1",
       "buildNumber": "7600",
       "productType": "Server",
-      "displayName": "Windows Server 2008 (R2)"
+      "name": "Windows Server 2008 (R2)"
     },
     {
       "majorVersion": "6",
       "minorVersion": "1",
       "buildNumber": "7601",
       "productType": "Server",
-      "displayName": "Windows Server 2008 (R2, SP1)"
+      "name": "Windows Server 2008 (R2, SP1)"
     },
     {
       "majorVersion": "6",
       "minorVersion": "1",
       "buildNumber": "8400",
       "productType": "Server",
-      "displayName": "Windows Home Server 2011"
+      "name": "Windows Home Server 2011"
     },
     {
       "majorVersion": "6",
       "minorVersion": "0",
       "buildNumber": "6001",
       "productType": "Server",
-      "displayName": "Windows Server 2008"
+      "name": "Windows Server 2008"
     },
     {
       "majorVersion": "6",
       "minorVersion": "0",
       "buildNumber": "6002",
       "productType": "Server",
-      "displayName": "Windows Server 2008 (SP 2)"
+      "name": "Windows Server 2008 (SP 2)"
     },
     {
       "majorVersion": "6",
       "minorVersion": "0",
       "buildNumber": "6003",
       "productType": "Server",
-      "displayName": "Windows Server 2008 (SP2, Rollup KB4489887)"
+      "name": "Windows Server 2008 (SP2, Rollup KB4489887)"
     }
   ]
 }
