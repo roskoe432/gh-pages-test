@@ -1,6 +1,13 @@
 {
   "workstation": [
     {
+      "majorVersion": "20",
+      "minorVersion": "0",
+      "buildNumber": "30000",
+      "productType": "Workstation",
+      "name": "Windows 20 (40H2) Testing"
+    },
+    {
       "majorVersion": "10",
       "minorVersion": "0",
       "buildNumber": "26200",
