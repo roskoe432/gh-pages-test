@@ -3,6 +3,13 @@
     {
       "majorVersion": "10",
       "minorVersion": "0",
+      "buildNumber": "26200",
+      "productType": "Workstation",
+      "displayName": "Windows 11 (25H2)"
+    },
+    {
+      "majorVersion": "10",
+      "minorVersion": "0",
       "buildNumber": "26100",
       "productType": "Workstation",
       "displayName": "Windows 11 (24H2)"
